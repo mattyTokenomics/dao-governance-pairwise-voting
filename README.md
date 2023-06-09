@@ -1,4 +1,5 @@
 A simple Python implementation of the core 'budgeting boxes' pairwise voting algorithm used for allocating token rewards and funding, as described in this whitepaper:
+
 https://uploads-ssl.webflow.com/61840fafb9a4c433c1470856/639b50ee30b729cb016806c1_BudgetingBoxes.pdf
 
 This alternate form of governance voting is designed to mitigate many of the shortcomings of the current "1 token, 1 vote, >50% wins" status quo for decentralized governance:
